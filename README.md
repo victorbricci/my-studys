@@ -1,7 +1,7 @@
 👋 Oi, sou o Victor, mais conhecido como VoiD, e esse arquivo tem como objetivo documentar minha trajétoria de iniciante até encontrar minha primeira vaga como Front-End, mostrando quais cursos estou fazendo, desafios e os projetos que fiz ou estão em andamento, você pode visualizar eles no repositório ''Meus Estudos'' 
 
 🗨 Metas 2023
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------
 
 ✩ Estudar o Discover da Rocketseat.
 ✩ Fazer os cursos da Udemy.
