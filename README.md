@@ -3,24 +3,24 @@
 🗨 Metas 2023
 --------------------------
 
-✩ Estudar o Discover da Rocketseat.
-✩ Fazer os cursos da Udemy.
-✩ Fazer lives de estudos sobre programação/inglês.
-✩ Mostrar para outras pessoas que tudo é possível, é só questão de querer.
-✩ Alcançar a sonhada vaga de Front-End. 
+* Estudar o Discover da Rocketseat.
+* Fazer os cursos da Udemy.
+* Fazer lives de estudos sobre programação/inglês.
+* Mostrar para outras pessoas que tudo é possível, é só questão de querer.
+* Alcançar a sonhada vaga de Front-End. 
 
 🖥 Projetos a serem feitos
 --------------------------
-✩ Criar um site de portfólio.
-✩ Criar uma loja virtual básica.
-✩ Criar um site para auxiliar nos estudos de inglês.
+* Criar um site de portfólio.
+* Criar uma loja virtual básica.
+* Criar um site para auxiliar nos estudos de inglês.
 
 🖤 Quer me ajudar? Saiba como
 --------------------------
-✩ Venha na minha live, vamos conversar e se você quiser estude e conheça coisas novas junto comigo, você sempre será bem-vindo. 
+* Venha na minha live, vamos conversar e se você quiser estude e conheça coisas novas junto comigo, você sempre será bem-vindo. 
 Se você possui experiência, me ajude com dicas do que posso melhorar/estudar, de preferência conteúdos gratuitos ou como fazer determinada coisa de forma melhor no meu código. 
 
-✩ Sua sugestão sempre será muito bem vinda! 
+* Sua sugestão sempre será muito bem vinda! 
 
 📅 Horários
 --------------------------
@@ -38,7 +38,7 @@ Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 
 👁️‍🗨️ Legendas referente aos projetos:
 --------------------------
-✩✩✩ == Foco atual.
-✩✩✩✩ == projeto terminado.
-✩✩ == projeto sendo atualizado.
-✩ == Não iniciei o projeto. 
+💣💣💣 == Foco atual.
+💣💣💣💣 == projeto terminado.
+💣💣 == projeto sendo atualizado.
+💣 == Não iniciei o projeto. 
