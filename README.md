@@ -10,27 +10,27 @@
 ✩ Alcançar a sonhada vaga de Front-End. 
 
 🖥 Projetos a serem feitos
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------
 ✩ Criar um site de portfólio.
 ✩ Criar uma loja virtual básica.
 ✩ Criar um site para auxiliar nos estudos de inglês.
 
 🖤 Quer me ajudar? Saiba como
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------
 ✩ Venha na minha live, vamos conversar e se você quiser estude e conheça coisas novas junto comigo, você sempre será bem-vindo. 
 Se você possui experiência, me ajude com dicas do que posso melhorar/estudar, de preferência conteúdos gratuitos ou como fazer determinada coisa de forma melhor no meu código. 
 
 ✩ Sua sugestão sempre será muito bem vinda! 
 
 📅 Horários
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------
 
 Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 |---------|---------|-------|--------|--------|-------|--------|--------|
 10h/11h-15h/16h|Estudos|  Estudos|Estudos |Estudos |Estudos|Desafios|Descanso|
 
 📪 Redes
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------
 * Onde estarei online: [Twitch](https://www.twitch.tv/voiidzera)
 * Meu [LinkedIn](https://www.linkedin.com/in/victor-ricci-aa0574204/)
 * Meu [GitHub](https://github.com/JenifferMendes)
@@ -38,7 +38,7 @@ Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 * Nosso [Discord](https://discord.gg/PxNvubvs2D)
 
 👁️‍🗨️ Legendas referente aos projetos:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+--------------------------
 ✩✩✩ == Foco atual.
 ✩✩✩✩ == projeto terminado.
 ✩✩ == projeto sendo atualizado.
