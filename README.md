@@ -38,7 +38,7 @@ Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 
 👁️‍🗨️ Legendas referente aos projetos:
 --------------------------
-💣💣💣 == Foco atual.
-💣💣💣💣 == projeto terminado.
-💣💣 == projeto sendo atualizado.
-💣 == Não iniciei o projeto. 
+#### ✩✩✩ == Foco atual.
+#### ✩✩✩✩ == Projeto Terminado.
+#### ✩✩ == Projeto Sendo Atualizado.
+#### ✩ == Não Iniciei o Projeto. 
