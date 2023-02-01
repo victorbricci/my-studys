@@ -33,9 +33,8 @@ Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 --------------------------
 * Onde estarei online: [Twitch](https://www.twitch.tv/voiidzera)
 * Meu [LinkedIn](https://www.linkedin.com/in/victor-ricci-aa0574204/)
-* Meu [GitHub](https://github.com/JenifferMendes)
-* Meu [Instagram](https://www.instagram.com/jkoizumii/)
-* Nosso [Discord](https://discord.gg/PxNvubvs2D)
+* Meu [GitHub](https://github.com/victorbricci)
+* Meu [Instagram]()
 
 👁️‍🗨️ Legendas referente aos projetos:
 --------------------------
@@ -43,11 +42,3 @@ Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 ✩✩✩✩ == projeto terminado.
 ✩✩ == projeto sendo atualizado.
 ✩ == Não iniciei o projeto. 
-
-
-
-
-
-
-
-
